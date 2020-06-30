@@ -1,4 +1,4 @@
-# Lemur Community Code of Conduct
+# Turbonomic Data Ingestion Framework Examples Community Code of Conduct
 
 ## Our Pledge
 

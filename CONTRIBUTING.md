@@ -1,4 +1,4 @@
-# Contributing to Data Ingestiong Framework
+# Contributing to Data Ingestion Framework
 
 Contributing to the Data Ingestion Framework examples is designed to be easy and most importantly, thank you for contributing!!  This is the getting started guide and will adjust over time as we add more automated testing to the build and commit process.
 
